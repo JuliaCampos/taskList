@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Julia
+Build-Jdk: 17
+Implementation-Title: taskList
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.taskList
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/taskList
+Created-By: Maven Integration for Eclipse
+

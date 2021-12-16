@@ -1,0 +1,6 @@
+com\taskList\bean\ServletInitializer.class
+com\taskList\service\TaskService.class
+com\taskList\repository\TaskRepository.class
+com\taskList\controler\TaskControler.class
+com\taskList\bean\TaskListApplication.class
+com\taskList\domain\Task.class
